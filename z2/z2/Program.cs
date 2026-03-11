@@ -19,4 +19,7 @@ int CalculateMax(int[] values)
     return values.Max();
 }
 
-Console.WriteLine("max");
+int CalculateMin(int[] values)
+{
+    return values.Min();
+}
