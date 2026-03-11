@@ -13,3 +13,10 @@ int CalculateAverage(int[] values)
     }
     return fin / values.Length;
 }
+
+int CalculateMax(int[] values)
+{
+    return values.Max();
+}
+
+Console.WriteLine("max");
