@@ -23,3 +23,4 @@ int CalculateMin(int[] values)
 {
     return values.Min();
 }
+
