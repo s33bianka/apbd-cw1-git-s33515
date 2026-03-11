@@ -1,3 +1,5 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
 Console.WriteLine("first msg");
+
+Console.WriteLine("second msg");
